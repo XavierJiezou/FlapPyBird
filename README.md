@@ -25,7 +25,7 @@ pyinstaller -F -w -i flappy.ico flappy.py
 Note: you must move `flappy.exe` to the root directory.
 ## Downlaod
 > [https://ghgxj.lanzous.com/ixzrWiql81e](https://ghgxj.lanzous.com/ixzrWiql81e)
-Or you can downlaod from the Releases.
+Or you can downlaod from the Releases. 
 ## Notable forks
 - [FlappyBird Fury Mode](https://github.com/Cc618/FlapPyBird)
 - [FlappyBird Model Predictive Control](https://github.com/philzook58/FlapPyBird-MPC)
