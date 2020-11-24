@@ -22,6 +22,7 @@ pip install pygame
 pip install pyinstaller
 pyinstaller -F -w -i flappy.ico flappy.py
 ```
+note: you must move the flappy.exe to the root directory.
 ## Notable forks
 - [FlappyBird Fury Mode](https://github.com/Cc618/FlapPyBird)
 - [FlappyBird Model Predictive Control](https://github.com/philzook58/FlapPyBird-MPC)
