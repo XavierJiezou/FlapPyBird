@@ -3,7 +3,7 @@ A Flappy Bird Clone made using [python-pygame][pygame]
 ## Demo
 ![Flappy Bird](screenshot1.png)
 
-## How-to (as tested on MacOS)
+## How-to
 1. Install
 ```bash
 pip install pygame
