@@ -61,6 +61,9 @@ def main():
     FPSCLOCK = pygame.time.Clock()
     SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
     pygame.display.set_caption('Flappy Bird')
+    # add an icon
+    icon = pygame.image.load('flappy.ico')
+    pygame.display.set_icon(icon)
 
     # numbers sprites for score display
     IMAGES['numbers'] = (
