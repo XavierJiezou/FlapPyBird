@@ -22,7 +22,7 @@ pip install pygame
 python flappy.py
 ```
 
-3. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key or the left mouse button to play and <kbd>Esc</kbd> to close the game.
+3. Use <kbd>&uarr;</kbd> or <kbd>Space</kbd> key or the `left mouse button` to play and <kbd>Esc</kbd> to close the game.
 
 Notable forks
 -------------
