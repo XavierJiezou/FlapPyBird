@@ -1,5 +1,5 @@
 # FlapPyBird
-A Flappy Bird Clone made using [python-pygame][pygame]
+A Flappy Bird Clone made using pygame.
 ## Demo
 ![Flappy Bird](demo.gif)
 
