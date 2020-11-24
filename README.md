@@ -1,7 +1,7 @@
 # FlapPyBird
 A Flappy Bird Clone made using [python-pygame][pygame]
 ## Demo
-![Flappy Bird](screenshot1.png)
+![Flappy Bird](demo.png)
 
 ## How-to
 1. Install
